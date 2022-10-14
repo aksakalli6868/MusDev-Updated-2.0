@@ -1,7 +1,7 @@
 {
   "name": "musdev",
   "version": "0.1.0",
-  "homepage": "https://aksakalli6868.github.io/musdev",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
